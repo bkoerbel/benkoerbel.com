@@ -1,0 +1,3 @@
+[submodule "site/themes/aerial"]
+	path = site/themes/aerial
+	url = https://github.com/sethmacleod/aerial.git
