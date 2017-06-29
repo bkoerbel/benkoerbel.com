@@ -9,4 +9,3 @@ theme = "aerial"
   copyright = "2017"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
-  favicon = "favicon.ico"
