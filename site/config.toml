@@ -5,7 +5,7 @@ theme = "aerial"
 
 [params]
   name = "Ben Koerbel"
-  about = "This is my webpage."
+  about = "This is my webpage, motherfucka."
   copyright = "2017"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
